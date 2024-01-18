@@ -1,0 +1,3 @@
+Entregar en formato PDF, a través de la plataforma de Teams con la siguiente nomenclatura Actividad3_ApellidoPaterno_ApellidoMaterno_Nombre_Boleta.PDF
+ 
+Cada ejercicio debe venir acompañado de su respectiva consulta y captura de pantalla de la salida del SGBD SQL Server, la entrega es individual.

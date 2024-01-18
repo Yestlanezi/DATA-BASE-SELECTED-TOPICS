@@ -1,0 +1,6 @@
+SELECT Vuelo.idVuelo, TIPOAVION.NUMASIENTOS - SUM(ISNULL(Venta.numAsientos,0) ) ASIENTOS, Vuelo.fechaVuelo 
+FROM VUELO left JOIN AVION ON VUELO.matriculaAvion = AVION.MATRICULA left JOIN TIPOAVION ON AVION.IDTIPOAVION = 
+TIPOAVION.IDTIPOAVION left JOIN VENTA ON VENTA.idVuelo = VUELO.idVuelo 
+group by Vuelo.idVuelo, Vuelo.fechaVuelo, 
+TIPOAVION.NUMASIENTOS 
+order by ASIENTOS DESC , fechaVuelo asc ;

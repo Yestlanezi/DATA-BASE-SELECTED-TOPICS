@@ -1,0 +1,5 @@
+Del ejercicio adjunto
+Aplicar hasta la 3 forma normal, paso a paso cada una de las tablas resultantes.
+Una vez normalizada la tabla, elaborar el modelo relacional gráfico (en el que se emplean las tablas y la cardinalidad).
+En formato .PDF
+La actividad es individual.

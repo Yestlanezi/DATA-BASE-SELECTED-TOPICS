@@ -1,0 +1,11 @@
+Instrucciones
+Realizar los ejercicios que vienen en el script, en equipo de 3 personas, elaborar su reporte en formato .PDF colocar:
+
+Portada
+Enunciado del ejercicio
+Código de Stored Procedure
+Ejecución  (Capturas de pantalla)
+
+
+Se trabajará con la base de datos Aerolineas,bak 
+Revisar presentación 

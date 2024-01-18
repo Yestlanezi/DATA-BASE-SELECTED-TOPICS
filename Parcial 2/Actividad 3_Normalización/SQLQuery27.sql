@@ -1,0 +1,3 @@
+SELECT *
+FROM Venta
+WHERE fechaCompra >= DATEADD(MONTH, -1, GETDATE())

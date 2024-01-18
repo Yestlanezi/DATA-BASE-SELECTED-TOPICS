@@ -1,0 +1,2 @@
+SELECT DISTINCT DATENAME(WEEKDAY, fechaVuelo) AS dia_semana
+FROM Vuelo;

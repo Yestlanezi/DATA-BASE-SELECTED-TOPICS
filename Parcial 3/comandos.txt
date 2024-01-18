@@ -1,0 +1,40 @@
+necesitamos instalar: 
+1. mysql: https://dev.mysql.com/downloads/installer/
+la version 8.0.35 
+la version de 285.3 M 
+
+2. node js: https://nodejs.org/en/download/current 
+
+3. visual studio code: https://code.visualstudio.com/download
+
+crear la base de datos en mysql: 
+1. create database "nombre de la base de datos" (nosotros usamos medimac o yotzil) ---> ejecutar 
+2. use "nombre de la base de datos" (nosotros usamos medimac o yotzil) ---> ejecutar 
+3. ejecutar el backup (solo copiamos y pegamos) 
+
+modificar el codigo: 
+1. en la carpeta medimac abrimos src y cambiamos en la linea 4 el nombre por el nombre de nuestra base de datos. 
+2. en la linea 6 ponemos la contraseña de nuestra base de datos creada en mysql y guardamos. 
+
+correr una terminal: 
+dentro del codigo en visual studio code
+1. abrimos una nueva terminal y seleccionamos nuestra base de datos 
+2. utilizamos el comando: npm run dev 
+
+abrirlo 
+1. en la carpeta frontmac abrimos el archivo index.hmtl y lo abrimos. 
+
+contraseñas de login 
+
+perfil medico 
+
+usuario: antomac@yotzil.com 
+contraseña: antomac 
+empleado: medico 
+
+perfil recepcionista 
+
+usuario: yotzil@gmail.com 
+contraseña: 1234 
+empleado: recepcionista 
+

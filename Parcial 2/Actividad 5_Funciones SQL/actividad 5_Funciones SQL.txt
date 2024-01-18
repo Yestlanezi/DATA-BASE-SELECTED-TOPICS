@@ -1,0 +1,14 @@
+Realizar los 9 ejercicios que vienen en el script, en equipo de 3 personas, elaborar su reporte en formato .PDF colocar:
+
+Portada
+Código de función 
+Ejecución 
+Resultado (Capturas de pantalla)
+Se trabajará con la base de datos Aerolineas.bak 
+
+Todos los integrantes subirán la actividad.
+
+Revisar el material colocado en la plataforma:
+
+PresentaciónFunciones.pptx 
+Funcion_ObtenerDireccionEmpleado.sql

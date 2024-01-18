@@ -1,0 +1,3 @@
+SELECT *
+FROM Vuelo
+WHERE fechaVuelo >= DATEADD(WEEK, -1, GETDATE())
